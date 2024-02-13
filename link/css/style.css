@@ -31,16 +31,20 @@ body {
 }
 
 h1 {
-  color: #ce2c96;
+  color: #000000;
 }
 
 h2 {
-  font-weight: 500; color: #ce2c96;
+  font-weight: 500; color: #000000;
   
 }
 
 h3{
-  font-weight: 500; color: #ce2c96;
+  font-weight: 500; color: #000000;
+}
+
+h4{
+  font-weight: 500; color: #000000;
 }
 
 p{
@@ -103,10 +107,11 @@ hr {
   border-radius: 20px;
   border: 2px solid #e2c7cf;
   margin: 0 auto 15px;
-  color: #000000;
+  color: #ffffff;
   padding: 15px 1px;
   background-color: #ce2c96;
   box-shadow: 2px 5px black;
+  font-weight: 500;
 }
 
 
